@@ -1,0 +1,5 @@
+0.0.0.0 datasec-kmsex-cn.heytapmobi.com
+0.0.0.0 rcpc-sdk-access-v6.m.qq.com
+0.0.0.0 rcpc-sdk-access.m.qq.com
+0.0.0.0 obus-cn.dc.heytapmobi.com
+0.0.0.0 virusinfo-cloudscan-cn.heytapmobi.com
